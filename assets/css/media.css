@@ -103,9 +103,7 @@
         font-size: var(--fs-27);
     }
     
-    header .menu ul li .mega-menu{
-        left:40px;
-    }
+    
     header .menu ul{
         background-color: #f74780;
     }
